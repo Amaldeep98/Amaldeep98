@@ -22,11 +22,8 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/amaldeep/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amal Deep LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/amaldeep_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Amal Deep Instagram" height="30" width="40" /></a>
-<a href="https://x.com/amaldeep" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Amal Deep Twitter" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@amaldeep" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Amal Deep YouTube" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/amaldeep98/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amal Deep LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_mad_maxx_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Amal Deep Instagram" height="30" width="40" /></a>
 
 
 ### ⚙️ Languages & Tools  
