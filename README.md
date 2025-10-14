@@ -59,7 +59,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amaldeep98&show_icons=true&theme=tokyonight" alt="Amal Deep GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amaldeep&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amaldeep98&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" />
 </p>
 
 ---
