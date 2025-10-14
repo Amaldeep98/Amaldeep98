@@ -1,15 +1,13 @@
 <div align="center" style="border: 2px solid black; border-radius: 12px; padding: 25px; background-color: #f9f9f9; display: inline-block; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&center=true&vCenter=true&width=500&height=70&color=8A2BE2&lines=Hi+There!+👋;I'M+AMAL+DEEP!;DevOps+Engineer+&+Automation+Enthusiast!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4000&pause=500&center=true&vCenter=true&width=550&height=80&color=8A2BE2&lines=Hi+There!+👋;I'M+AMAL+DEEP!;DevOps+Engineer+%26+Automation+Enthusiast!" alt="Typing SVG" />
   </h1>
-  <h2>A passionate DevOps Engineer </h2>
+  <h2>A passionate DevOps Engineer</h2>
 </div>
 
+<!-- GIF shifted slightly lower -->
+<img align="right" alt="Coding" width="400" style="margin-top: 40px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-
-
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 
 
@@ -59,13 +57,6 @@
 </p>
 
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amaldeep98&show_icons=true&theme=tokyonight" alt="Amal Deep GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Amaldeep98&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" />
-</p>
 
 ---
 
