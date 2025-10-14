@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/amaldeep98/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amal Deep LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the_mad_maxx_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Amal Deep Instagram" height="30" width="40" /></a>
-
+<br/>
 ### ⚙️ Languages & Tools  
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
