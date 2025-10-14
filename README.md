@@ -1,6 +1,6 @@
 <div align="center" style="border: 2px solid black; border-radius: 12px; padding: 25px; background-color: #f9f9f9; display: inline-block; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&center=true&vCenter=true&width=500&height=70&color=8A2BE2&lines=Hi+There!+👋;I'm+Amal+Deep!;DevOps+Engineer+&+Automation+Enthusiast!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&center=true&vCenter=true&width=500&height=70&color=8A2BE2&lines=Hi+There!+👋;I'M+AMAL+DEEP!;DevOps+Engineer+&+Automation+Enthusiast!" alt="Typing SVG" />
   </h1>
   <h3>A passionate DevOps Engineer </h3>
 </div>
