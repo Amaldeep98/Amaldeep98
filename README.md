@@ -58,5 +58,3 @@
 
 ---
 
-### 💡 Quote
-> "Automate the boring stuff, scale the smart stuff." – Amal Deep
