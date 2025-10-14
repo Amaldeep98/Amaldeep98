@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&duration=4000&pause=500&center=true&vCenter=true&width=550&height=80&color=8A2BE2&lines=Hi+There!+👋;I'M+AMAL+DEEP!;DevOps+Engineer+%26+Automation+Enthusiast!" alt="Typing SVG" />
   </h1>
   <h2>A passionate DevOps Engineer</h2>
-  <br>
+<br/><br/>
 </div>
 
 <!-- Add space and move GIF lower -->
