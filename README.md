@@ -1,8 +1,8 @@
 <div align="center" style="border: 2px solid black; border-radius: 12px; padding: 25px; background-color: #f9f9f9; display: inline-block; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Amal+Deep!;DevOps+Engineer+&+Automation+Enthusiast!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&center=true&vCenter=true&width=500&height=70&color=8A2BE2&lines=Hi+There!+👋;I'm+Amal+Deep!;DevOps+Engineer+&+Automation+Enthusiast!" alt="Typing SVG" />
   </h1>
-  <h3>A passionate DevOps Engineer from India 🇮🇳</h3>
+  <h3>A passionate DevOps Engineer </h3>
 </div>
 
 ---
@@ -30,7 +30,6 @@
 <a href="https://www.youtube.com/@amaldeep" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Amal Deep YouTube" height="30" width="40" /></a>
 </p>
 
----
 
 ### ⚙️ Languages & Tools  
 
@@ -50,14 +49,7 @@
 <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="50" height="50"/></a>
 </p>
 
----
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaldeep&show_icons=true&theme=tokyonight" alt="Amal Deep GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaldeep&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
