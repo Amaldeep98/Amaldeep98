@@ -2,7 +2,7 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&center=true&vCenter=true&width=500&height=70&color=8A2BE2&lines=Hi+There!+👋;I'M+AMAL+DEEP!;DevOps+Engineer+&+Automation+Enthusiast!" alt="Typing SVG" />
   </h1>
-  <h3>A passionate DevOps Engineer </h3>
+  <h2>A passionate DevOps Engineer </h2>
 </div>
 
 
@@ -54,7 +54,21 @@
 <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
 
 </p>
+### 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaldeep&show_icons=true&theme=tokyonight" alt="Amal Deep GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amaldeep&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" />
+</p>
+
+---
+
+### 💜 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaldeep&theme=react-dark&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Amal Deep Contribution Graph" />
+</p>
 
 
 ---
