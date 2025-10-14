@@ -1,9 +1,12 @@
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-</h1>
+<div align="center" style="border: 2px solid black; border-radius: 10px; padding: 20px; display: inline-block; background-color: #f9f9f9;">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Amal+Deep!;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+  <h3>A passionate software developer from India 🇮🇳</h3>
+</div>
+
 
 <br/>
 
