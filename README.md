@@ -25,15 +25,13 @@
 <a href="https://www.linkedin.com/in/amaldeep98/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amal Deep LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the_mad_maxx_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Amal Deep Instagram" height="30" width="40" /></a>
 
-<p></p>
-<p></p>
-
 ### ⚙️ Languages & Tools  
 
-<p align="left">
-<!-- Cloud & DevOps -->
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<!-- First line -->
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
 <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/></a>
 <a href="https://helm.sh/" target="_blank"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="50" height="50"/></a>
 <a href="https://argo-cd.readthedocs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo CD" width="50" height="50"/></a>
@@ -41,18 +39,18 @@
 <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/></a>
 <a href="https://www.ansible.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50" height="50"/></a>
 
-<!-- Programming & Databases -->
+<br/>
+
+<!-- Second line -->
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
 <a href="https://www.elastic.co/what-is/elk-stack" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK Stack" width="50" height="50"/></a>
-
-<!-- Monitoring & Collaboration -->
 <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50"/></a>
 <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50"/></a>
 <a href="https://slack.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="50" height="50"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
 <a href="https://linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
+
 </p>
 
 
