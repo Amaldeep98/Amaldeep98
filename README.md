@@ -56,12 +56,14 @@
 </p>
 ### 📊 GitHub Stats  
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amaldeep98&show_icons=true&theme=tokyonight" alt="Amal Deep GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amaldeep98&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amaldeep98&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" />
+</p>
 ---
 
 ### 💜 Contribution Graph  
