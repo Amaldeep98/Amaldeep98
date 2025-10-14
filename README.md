@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amaldeep98&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amaldeep98&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" />
 </p>
 ---
 
