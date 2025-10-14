@@ -57,9 +57,9 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaldeep&show_icons=true&theme=tokyonight" alt="Amal Deep GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amaldeep98&show_icons=true&theme=tokyonight" alt="Amal Deep GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amaldeep&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amaldeep98&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ### 💜 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaldeep&theme=react-dark&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Amal Deep Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaldeep98&theme=react-dark&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Amal Deep Contribution Graph" />
 </p>
 
 
