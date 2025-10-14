@@ -5,11 +5,9 @@
   <h3>A passionate DevOps Engineer </h3>
 </div>
 
----
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AmalDeep&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
+
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
@@ -20,7 +18,7 @@
 - 📫 Reach me at **amaldeep98@gmail.com**  
 - ⚡ Fun fact: **I automate everything! ⚙️**
 
----
+
 
 ### 🌐 Connect with Me  
 <p align="left">
