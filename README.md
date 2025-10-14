@@ -1,13 +1,13 @@
 <div align="center" style="border: 2px solid black; border-radius: 12px; padding: 25px; background-color: #f9f9f9; display: inline-block; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4000&pause=500&center=true&vCenter=true&width=550&height=80&color=8A2BE2&lines=Hi+There!+👋;I'M+AMAL+DEEP!;DevOps+Engineer+%26+Automation+Enthusiast!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&duration=4000&pause=500&center=true&vCenter=true&width=550&height=80&color=8A2BE2&lines=Hi+There!+👋;I'M+AMAL+DEEP!;DevOps+Engineer+%26+Automation+Enthusiast!" alt="Typing SVG" />
   </h1>
   <h2>A passionate DevOps Engineer</h2>
 </div>
 
-<!-- GIF shifted slightly lower -->
-<img align="right" alt="Coding" width="400" style="margin-top: 40px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
+<!-- Add space and move GIF lower -->
+<br/><br/>
+<img align="right" alt="Coding" width="400" style="margin-top: 60px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 
 
