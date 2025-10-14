@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Amal+Deep!;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </h1>
 
-  <h3>A passionate software developer from India 🇮🇳</h3>
+  <h3>A passionate DevOps Engineer </h3>
 </div>
 
 
