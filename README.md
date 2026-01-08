@@ -17,7 +17,8 @@
 
 - 🔭 I’m currently working on **DevOps & Cloud Automation**  
 - 💬 Ask me about **Docker, Kubernetes, Terraform, CI/CD, AWS, and Linux**  
-- 📫 Reach me at **amaldeep98@gmail.com**  
+- 📫 Reach me at **amaldeep98@gmail.com**
+- 💻 **Amal-dev.com**
 - ⚡ Fun fact: **I automate everything! ⚙️**
 
 
